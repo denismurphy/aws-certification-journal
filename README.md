@@ -26,4 +26,12 @@ The content here should not be considered as a replacement for official AWS docu
 
 If you would like to contribute or have any suggestions or feedback please feel free to open an issue or make a pull request. I would love to hear from you!
 
+## Authors
+
+-   **Denis Murphy**
+
+## License
+
+This project is licensed under the MIT License
+
 Happy Studying!
